@@ -5,7 +5,9 @@ on:
     types: [closed]
 
 permissions:
+  contents: read
   pull-requests: write
+  issues: write
 
 jobs:
   assign-author:
