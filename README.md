@@ -212,6 +212,36 @@ Feel free to:
 
 ---
 
+# 📌 Contribution Guidelines Reminder
+
+## Before Contributing
+
+- Do not start working on an issue until it is assigned to you.
+- Comment on the issue you want to work on.
+- Wait for maintainers to assign the issue before creating a PR.
+
+---
+
+## 🔀 Pull Request Guidelines
+
+- Mention the related issue in your PR description using:
+  - `Closes #issue_number`
+  - `Fixes #issue_number`
+- Keep PRs focused on a single issue/topic.
+- Add screenshots or demo videos for UI-related changes.
+- Sync your branch with the latest repository changes before submitting a PR.
+
+---
+
+## 📝 Additional Notes
+
+- Follow the project structure and coding style.
+- Avoid spam or duplicate PRs/issues.
+- Be respectful during code reviews and discussions.
+- Beginners are welcome — feel free to ask questions if stuck ✨
+
+---
+
 # 📜 License
 
 This project is licensed under the **MIT License**.  
